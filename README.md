@@ -61,7 +61,7 @@ This project implements a hybrid framework that solves both problems by combinin
 
 The system is a two-stage sequential fine-tuning pipeline built on a frozen GPT-2 model. LoRA adapters are injected into the c_attn (self-attention) layers.
 
-![Framework Architecture](images/img1.jpg)
+![Framework Architecture](images/img1.png)
 
 
 ### Stage 1: Initial Training (Domain A - IMDb)
