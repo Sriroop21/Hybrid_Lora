@@ -155,7 +155,7 @@ This hybrid approach provides massive efficiency gains over full fine-tuning and
 
 ```bash
 git clone https://github.com/Sriroop21/Hybrid_Lora.git
-cd hybrid-lora
+cd Hybrid_Lora
 ```
 
 **2. Install dependencies:**
