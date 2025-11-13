@@ -1,0 +1,10 @@
+# Ignore the entire results folder
+/results/
+
+# Ignore the PDF copy of the code file
+code file.pdf
+
+# Ignore common Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
